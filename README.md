@@ -1,8 +1,10 @@
-<div align="center">
-    <a href="https://phareaions.cerclebriochin.org"><img src="tofill" /></a>
+<p align="center">
+    <a href="https://phareaions.cerclebriochin.org"><img src="https://raw.githubusercontent.com/LeCercleBriochin/phareaion/master/logo.jpg" /></a>
+</p>
 
-    <h1>Phareaions</h1>
-</div>
+Phareaion
+
+-------------------------------------------------------------------------------
 
 ## Table of content
 
