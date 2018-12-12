@@ -2,8 +2,6 @@
     <a href="https://phareaions.cerclebriochin.org"><img src="https://raw.githubusercontent.com/LeCercleBriochin/phareaion/master/logo.jpg" /></a>
 </p>
 
-Phareaion
-
 -------------------------------------------------------------------------------
 
 ## Table of content
